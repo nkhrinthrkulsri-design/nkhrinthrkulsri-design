@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nakarin Kunsi</h1>
-<h3 align="center">From bug to feature.</h3>
+<h3 align="center">💻 Student Developer | 🏀 Basketball Player | 🚀 Technology Enthusiast 👨‍💻 About Me 💡 Passionate about programming and problem-solving 🖥️ Experienced in PHP, Java, C, and Python 🌐 Interested in Web Development, Software Engineering, and Arduino Projects 🔧 Enjoy building practical solutions and learning new technologies 📚 Always improving my coding and teamwork skills 🏆 Achievements 🥇 Participant in the 46th ICT Competition 🔬 Developed projects using Arduino and web technologies 🚀 Continuously exploring new programming concepts and tools 🏀 Sports & Activities ⛹️ Active basketball player 🏅 Competed in TOA 3x3 Basketball Tournament 🔥 Participated in games against The Prince Royal's College 🤝 Learned teamwork, discipline, and leadership through sports 🎯 Goals 📈 Become a skilled Software Engineer 🌍 Create technology that solves real-world problems 🚀 Keep learning, building, and growing every day</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/nakarin kunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nakarin kunsi" height="30" width="40" /></a>
+<a href="https://instagram.com/nxkxrin._txn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nxkxrin._txn" height="30" width="40" /></a>
+<a href="https://discord.gg/tonreid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tonreid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
